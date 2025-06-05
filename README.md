@@ -37,8 +37,8 @@ This project showcases a smooth **parallax effect** where background images move
 ## 📂 Folder Structure
 
 - `Parallax-Website/`
-  - `Project1_Presentation_Sarthak_Narula.css`
-  - `Project1_Presentation_Sarthak_Narula.html`
+  - `Added_Styles.css`
+  - `index.html`
   - `images/`
 
 
